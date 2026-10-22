@@ -6,9 +6,9 @@
 | **Kelas** | A |
 | **PJ** | [Rakha Hafidz Fauzan] |
 | **Tema** | [Akademik Kampus] |
-| **Tanggal** | [22 Oktober 2026] |
-| **Nama** | [Harisa Malfa Liya] |
-| **NPM** | [4525210027] |
+| **Tanggal** | [22/10/2026] |
+| **Nama** | [Khairul Adam Effendi] |
+| **NPM** | [4525210035] |
 
 ---
 
@@ -16,85 +16,60 @@
 
 | Nama | NPM | Tugas / Fitur yang Dikerjakan |
 | :--- | :--- | :--- |
-| [Khairul Adam Effendi] | [4525210035] | [Isi tugas/fitur yang dikerjakan] |
-| [Kahlil Ar'umi Kaicil Putera] | [4525210030] | [Isi tugas/fitur yang dikerjakan] |
-| [Ilham Baihaqi] | [4525210029] | [Isi tugas/fitur yang dikerjakan] |
-| [Karel Abimanyu Ahpandi] | [4525210031] | [Isi tugas/fitur yang dikerjakan] |
-| [Kevin Samuel Fernatyan] | [4525210033] | [Isi tugas/fitur yang dikerjakan] |
+| [Khairul Adam Effendi] | [4525210035] | [Main.java] |
+| [Kahlil Ar'umi Kaicil Putera] | [4525210030] | [Jurusan.java] |
+| [Ilham Baihaqi] | [4525210029] | [Jadwal.java] |
+| [Karel Abimanyu Ahpandi] | [4525210031] | [Quality Check] |
+| [Kevin Samuel Fernatyanan] | [4525210033] | [Dosen.java] |
 | [Harisa Malfa Liya] | [4525210027] | [Isi tugas/fitur yang dikerjakan] |
-| [Fabian Adiputra] | [4525210024] | [Isi tugas/fitur yang dikerjakan] |
-| [Ghathfaan Rizqi Sumantri] | [4525210025] | [Isi tugas/fitur yang dikerjakan] |
 | [Chelsy Olivia Maranggi Hutapea] | [4525210028] | [Isi tugas/fitur yang dikerjakan] |
+| [Fabian Adiputra] | [4525210024] | [Read.MD] |
+| [Ghathfaan Rizqi Sumantri] | [4525210025] | [Isi tugas/fitur yang dikerjakan] |
+
 
 ---
 
 ## Deskripsi Proyek
-> [Jelaskan secara singkat aplikasi apa yang dibangun pada proyek UTS ini, apa tujuan utamanya, dan masalah apa yang ingin diselesaikan.]
+> Sistem Informasi Akademik Kelas A
 
 **Daftar Fitur:**
-1. [Sebutkan fitur pertama]
-2. [Sebutkan fitur kedua]
-3. [Sebutkan fitur ketiga, dst.]
+1. Menampilkan Jadwal
+2. Menampilkan Ruangan
+3. Menampilkan Nilai
 
 ---
 
 ## 1. Implementasi Java
 
-### 1.1. File: `Satu.java`
+### 1.1. File: `main.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai fungsi file ini dan konsep OOP yang diterapkan.]
 
 **Screenshot Kode:**
-![SS Code Satu.java](gambar-code-java-1)
+<img width="1384" height="654" alt="7cb746af-c4fd-4454-bfcf-04f7ad1099be" src="https://github.com/user-attachments/assets/d1aa2819-5f59-4629-92a3-d73ad53829cb" />
 
-### 1.2. File: `Dua.java`
-**Penjelasan Kode:**
-> [Isi Penjelasan.]
-
-**Screenshot Kode:**
-![SS Code Dua.java](gambar-code-java-2)
-
-### 1.3. File: `Main.java`
+### 1.2. File: `Mahasiswa.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Main.java](gambar-code-java-3)
+<img width="1380" height="899" alt="50ae30a8-76ce-42a1-b1fc-6304ef435a72" src="https://github.com/user-attachments/assets/cff58179-a67d-444f-8caf-b9d8e01925a3" />
+
+
+### 1.3. File: `Jadwal.java`
+**Penjelasan Kode:**
+> [Isi Penjelasan mengenai alur eksekusi program utama.]
+
+**Screenshot Kode:**
+<img width="1387" height="510" alt="75dd2985-0706-4c04-8e82-ee9cf1980413" src="https://github.com/user-attachments/assets/15de99d5-5212-4b7a-a625-4ce06bcd692d" />
+
 
 ### Output
 **Hasil Running Program (Java):**
-![Output Java](gambar-output-java)
+<img width="660" height="274" alt="56e67261-e44e-43b6-9534-6b7e33ec120d" src="https://github.com/user-attachments/assets/322776dd-eab1-4afe-ad47-10937963e60a" />
 
----
-
-## 2. Implementasi PHP
-
-### 2.1. File: `satu.php`
-**Penjelasan Kode:**
-> [Isi Penjelasan mengenai fungsi file ini dan konsep OOP yang diterapkan.]
-
-**Screenshot Kode:**
-![SS Code satu.php](gambar-code-php-1)
-
-### 2.2. File: `dua.php`
-**Penjelasan Kode:**
-> [Isi Penjelasan.]
-
-**Screenshot Kode:**
-![SS Code dua.php](gambar-code-php-2)
-
-### 2.3. File: `main.php`
-**Penjelasan Kode:**
-> [Isi Penjelasan mengenai alur eksekusi program utama.]
-
-**Screenshot Kode:**
-![SS Code main.php](gambar-code-php-3)
-
-### Output
-**Hasil Running Program (PHP):**
-![Output PHP](gambar-output-php)
 
 ---
 
 ## 3. Kesimpulan
-> [Isi Kesimpulan mengenai proyek UTS secara keseluruhan, evaluasi penerapan konsep OOP pada tema yang dipilih, serta pengalaman kolaborasi tim.]
+> Sistem Informasi Akademik Kelas A adalah untuk melihat daftar mahasiswa, jadwal, nilai,
